@@ -89,10 +89,13 @@
             Forever yours, <br>
             [Jaana❤️]
         </p>
+        <!-- Footer with a Personal Message -->
+        <footer>
+            <p>I love you so much! I hope this year brings you all the happiness in the world!</p>
+            <a href="mailto:feraz.education@gmail.com" class="btn-message">Leave a message</a>
+        </footer>
     </section>
 
-    <footer>
-        Made with love ❤️ by [FerazRahman]
-    </footer>
+
 </body>
 </html>
